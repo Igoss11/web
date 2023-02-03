@@ -1,0 +1,12 @@
+html {
+    background-color: rgb(185, 206, 238);
+}
+h1 {
+    color: rgba(4, 54, 38, 0.349);
+}
+h2 {
+    color: rgba(4, 70, 48, 0.349);
+}
+.center {
+    text-align: center;
+}
